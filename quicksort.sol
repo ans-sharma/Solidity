@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: UNLICENSE
 pragma solidity ^0.8.7;
 
 contract sortQuickSort {
